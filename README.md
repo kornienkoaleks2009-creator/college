@@ -3,8 +3,7 @@
 My first programming in C++
 
 
-
-TASKS
+                Tasks
 
 
 Task1.cpp — code of the first task
@@ -20,7 +19,7 @@ Task5.cpp — code of the fifth task
 
 
 
-How to start
+               How to start
 
 
 Install a C++ compiler
@@ -30,6 +29,6 @@ Compile the required file: g++ Task1.cpp
 Run the program: ./Task1
 
 
-NOTE 
+                 NOTE 
 
 First C++ code description in college
